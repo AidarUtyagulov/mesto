@@ -5,3 +5,10 @@
     border-radius: 2px;
     background-image: url(../../../../images/Vector2.png);
 }
+
+@media (max-width: 1280px) {
+    .profile__button_add {
+        width: 282px;
+        height: 50px;
+    }
+}
