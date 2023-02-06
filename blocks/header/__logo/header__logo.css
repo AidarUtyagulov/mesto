@@ -3,9 +3,10 @@
     min-height: 33px;
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 320px) {
     .header__logo {
         max-width: 103px;
         min-height: 24px;
+        padding-left: 27px;
     }
 }

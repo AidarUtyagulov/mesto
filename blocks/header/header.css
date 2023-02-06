@@ -6,9 +6,18 @@
     border-bottom: 1px solid #545454;
 }
 
-@media (max-width: 1280px) {
+@media (max-width:1024px) {
     .header {
+        max-width: 90%;
+    }
+    
+}
+
+@media (max-width: 320px) {
+    .header {
+        max-width: 320px;
         min-height: 56px;
-        padding: 28px 0 0 27px;
+        padding-top: 28px;
+        margin: 0;
     }
 }
