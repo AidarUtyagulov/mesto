@@ -15,18 +15,20 @@
 * Адаптивная верстка
 
 **Технологии:**
-Методология БЭМ
-HTNL
-JS
-CSS:
-    Flexbox
-    Grid Layout
-    Positioning
-GitHub Pages
-Figma
+- Методология БЭМ
+- HTNL
+- JS
+- CSS:
+   - Flexbox
+   - Grid Layout
+   - Positioning
+- GitHub Pages
+- Figma
 
 **Макет на Figma**
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
 
 **Установка и просмотр:**
+- https://github.com/AidarUtyagulov/mesto.git
+- 
