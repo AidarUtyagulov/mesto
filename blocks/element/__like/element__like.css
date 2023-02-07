@@ -4,7 +4,7 @@
    margin: 30px 30px 30px 0px;
    padding: 0;
    border: none;
-   background-image: url(../../../images/VectorHeart.svg);
+   background-image: url(../../../images/like.svg);
    background-size: contain;
    background-repeat: no-repeat;
    background-position: center;
@@ -20,6 +20,6 @@
 }
 
 .element__like:active {
-   background-image: url(../../../images/like_active.png);
+   background-image: url(../../../images/likeactive.png);
    opacity: 1;
 }
