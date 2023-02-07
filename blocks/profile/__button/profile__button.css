@@ -4,4 +4,10 @@
     background-repeat: no-repeat;
     background-position: center;
     background-color: #000;
+    transition: .5s ease;
+}
+
+.profile__button:hover {
+    opacity: .6;
+    cursor: pointer;
 }

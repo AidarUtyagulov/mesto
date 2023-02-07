@@ -11,4 +11,15 @@
    background-color: #fff;
    grid-area: like;
    justify-self: end;
+   transition: .5s ease;
+}
+
+.element__like:hover {
+   opacity: .5;
+   cursor: pointer;
+}
+
+.element__like:active {
+   background-image: url(../../../images/like_active.png);
+   opacity: 1;
 }

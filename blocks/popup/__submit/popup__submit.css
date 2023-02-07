@@ -12,6 +12,11 @@
     cursor: pointer;
     padding: 14px 125px 18px;
     border: 0;
+    transition: .5s ease;
+}
+
+.popup__submit:hover {
+    opacity: .8;
 }
 
 @media (max-width: 680px) {
