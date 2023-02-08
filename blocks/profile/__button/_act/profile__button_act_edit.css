@@ -1,0 +1,16 @@
+.profile__button_act_edit {
+    width: 24px;
+    height: 24px;
+    border: 1px solid #fff;
+    background-image: url(../../../../images/Vector.svg);
+    background-size: 10px;
+    box-sizing: border-box;
+}
+
+@media (max-width: 320px) {
+    .profile__button_act_edit {
+        width: 18px;
+        height: 18px;
+        background-size: 7.5px;
+    }
+}

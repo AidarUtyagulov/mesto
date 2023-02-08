@@ -2,13 +2,13 @@
     position: absolute;
     width: 32px;
     height: 32px;
-    background-image: url(../../../images/CloseIcon.png);
+    background-image: url(../../../images/CloseIcon.svg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 50%;
     background-color: rgba(0, 0, 0, 0);
     top: -40px;
-    right: -35px;
+    right: -40px;
     border: 0;
     padding: 0;
     cursor: pointer;
@@ -23,7 +23,7 @@
     .popup__exit {
         width: 20px;
         height: 20px;
-        top: -40px;
+        top: -35px;
         right: 0px;
     }
     

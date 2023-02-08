@@ -8,3 +8,10 @@
       'picture picture'
       'header like';
 }
+
+@media (max-width: 320px) {
+   .element {
+      max-width: 282px;
+   }
+   
+}
