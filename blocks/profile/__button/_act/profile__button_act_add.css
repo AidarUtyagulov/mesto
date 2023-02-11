@@ -10,14 +10,8 @@
 
 @media (max-width: 680px) {
     .profile__button_act_add {
-        width: 100%;
-        margin: 36px 0 0;
-    }
-}
-
-@media (max-width: 320px) {
-    .profile__button_act_add {
         width: 282px;
         background-size: 16px;
+        margin: 36px 0 0;
     }
 }
